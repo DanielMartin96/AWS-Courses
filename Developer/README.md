@@ -1,8 +1,8 @@
-# AWS-Courses
+# Certified Developer Associate 
 
 ### Checklist
 - [x] IAM & AWS CLI
-- [ ] ECS Instance Storage
+- [x] ECS Instance Storage
 - [ ] AWS Fundamentals: ELB + ASG 
 - [ ] AWS Fundamentals: RDS + Aurora + ElastiCache 
 - [ ] Route 53 
