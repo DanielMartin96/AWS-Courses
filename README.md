@@ -1,7 +1,7 @@
 # AWS-Courses
 
 ### Checklist
-- [ ] IAM & AWS CLI
+- [x] IAM & AWS CLI
 - [ ] ECS Instance Storage
 - [ ] AWS Fundamentals: ELB + ASG 
 - [ ] AWS Fundamentals: RDS + Aurora + ElastiCache 
