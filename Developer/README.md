@@ -2,9 +2,9 @@
 
 ### Checklist
 - [x] IAM & AWS CLI
-- [x] EC2 Fundamentals
+- [x] EC2 Fundamentals 
 - [x] ECS Instance Storage
-- [ ] AWS Fundamentals: ELB + ASG 
+- [x] AWS Fundamentals: ELB + ASG 
 - [ ] AWS Fundamentals: RDS + Aurora + ElastiCache 
 - [ ] Route 53 
 - [ ] VPC Fundamentals 
